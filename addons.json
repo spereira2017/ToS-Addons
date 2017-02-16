@@ -1,0 +1,16 @@
+[
+	{
+		"name": "safeBuff",
+		"file": "safebuff",
+		"extension": "ipf",
+		"fileVersion": "v1.0.0",
+		"releaseTag": "v1.0.0",
+		"unicode": "🌟",
+		"description": "safeBuff is a helper to save your silver in wrong buff purchases. Enjoy :)",
+		"tags": [
+			"safeBuff",
+			"buff",
+			"shop"
+		]
+	}
+]

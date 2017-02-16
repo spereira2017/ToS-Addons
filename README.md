@@ -1,12 +1,12 @@
 ## Download ##
 
-You should use the [Addon Manager](https://github.com/Excrulon/Tree-of-Savior-Addon-Manager/releases/latest) to download my addons! All the cool kids are using it!
+Waiting approvation on [Addon Manager](https://github.com/Excrulon/Tree-of-Savior-Addon-Manager/releases/latest).
 
 ## Addons Available
 
-<b>[safeBuff](https://github.com/fiote/ToS-Addons/wiki/safeBuff):</b>
+<b>[safeBuff](https://github.com/spereira2017/ToS-Addons/wiki/safeBuff):</b>
 
-cwRepair lets you define a durability% to consider a gear "good" and easily repair the bads when visiting a repair shop.
+SafeBuff is the guardian of your silver dedicated to never letting you buy expensive buffs again!!
 
 ## Thanks
 

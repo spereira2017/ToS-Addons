@@ -10,4 +10,4 @@ SafeBuff is the guardian of your silver dedicated to never letting you buy expen
 
 ## Thanks
 
-Thank to @fiote to help with some informations :)
+Thanks to @fiote for the help provided :)

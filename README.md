@@ -6,20 +6,21 @@ Waiting approvation on [Addon Manager](https://github.com/Excrulon/Tree-of-Savio
 
 ***
 
-### <b>[safeBuff](https://github.com/spereira2017/ToS-Addons/wiki/safeBuff)</b>
+### <b>[safeBuff](https://github.com/spereira2017/ToS-Addons)</b>
 
 SafeBuff is the guardian of your silver dedicated to never letting you buy expensive buffs again!!
 
 ### Usage ###
 
 /safebuff (blessing or aspersion or sacrament) $value
+
 Example: /safebuff blessing 1500
 
 [Screenshot](http://imgur.com/o6ZfSGb)
 
 ### Manual Installation
 
-[Download](https://drive.google.com/file/d/0B9mWCaravkcIYUdMbWJtMFVoR2c/view)
+[Download](http://goo.gl/QU21Ec)
 
 Extract content into Tree of Savior folder.
 
